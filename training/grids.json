@@ -1,0 +1,5 @@
+{
+  "lr": [{"C": 0.01}, {"C": 0.1}, {"C": 1.0}],
+  "cart": [{"max_depth": 3}, {"max_depth": 6}, {"max_depth": 9}],
+  "lightgbm": [{"num_leaves": 15}, {"num_leaves": 31}, {"num_leaves": 63}]
+}
